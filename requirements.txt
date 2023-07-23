@@ -1,0 +1,9 @@
+Flask
+numpy
+matplotlib
+scipy
+tensorflow
+Keras
+h5py
+
+#-e .
